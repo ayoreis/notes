@@ -1,9 +1,13 @@
 # Linux
 
-[The Linux Experiment - YouTube](https://www.youtube.com/@TheLinuxEXP)
-[Chris Titus Tech - YouTube](https://www.youtube.com/@ChrisTitusTech)
+## People
 
-- GNU?
+- [The Linux Experiment - YouTube](https://www.youtube.com/@TheLinuxEXP)
+- [Chris Titus Tech - YouTube](https://www.youtube.com/@ChrisTitusTech)
+
+---
+
+Learn about GNU
 
 ## Interesting/future/look into
 
@@ -13,8 +17,10 @@
 
 ## Distribution
 
-Choosing the Right Linux Distro [Video](https://www.youtube.com/watch?v=dL05DoJ0qsQ) | [Article](https://christitus.com/choose-linux-distro/)
-[Ranking Linux Distributions for 2023: not your average tier list! [Video]](https://www.youtube.com/watch?v=d7-EhGIeGUs)
+- Choosing the Right Linux Distro [Video](https://www.youtube.com/watch?v=dL05DoJ0qsQ) | [Article](https://christitus.com/choose-linux-distro/)
+- [Ranking Linux Distributions for 2023: not your average tier list! [Video]](https://www.youtube.com/watch?v=d7-EhGIeGUs)
+
+---
 
 - Arch (btw)
 - Fedora
@@ -24,13 +30,14 @@ Choosing the Right Linux Distro [Video](https://www.youtube.com/watch?v=dL05DoJ0
 	- Linux Mint
 	- Ubuntu
 
-
 ## Bootloader
 
 - [System and Service Manager (systemd.io)](https://systemd.io)
 - [GNU GRUB - GNU Project - Free Software Foundation (FSF)](https://www.gnu.org/software/grub/)
 
 ## Init system
+
+...
 
 ## Display renderer
 

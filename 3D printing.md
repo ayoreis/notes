@@ -15,6 +15,6 @@
 
 ## My setup
 
-- **Modeling:** Blender
+- **Modelling:** Blender
 - **Slicer:** Cura
 - **Printer:** Ender-3
