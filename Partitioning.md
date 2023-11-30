@@ -29,5 +29,7 @@ Command (m for help): w
 
 ## exFAT
 
+Using [exfatprogs](https://github.com/exfatprogs/exfatprogs) [(Arch)](https://archlinux.org/packages/extra/x86_64/exfatprogs/), similar with [exfat-utils](https://man.archlinux.org/listing/exfat-utils).
+
 - Get cluster size: `# dump.exfat /dev/sdb1` (output in [bytes](https://en.wikipedia.org/wiki/Byte#Multiple-byte_units)) ([dump.exfat(8)](https://man.archlinux.org/man/dump.exfat.8))
 - Set cluster size: `# mkfs.exfat -c 128K /dev/sdb1` ([mkfs.exfat(8)](https://man.archlinux.org/man/mkfs.exfat.8))
