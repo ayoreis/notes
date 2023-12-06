@@ -67,8 +67,7 @@ Learn about GNU
 
 ## GUI toolkits and themes
 
-- [The GTK Project - A free and open-source cross-platform widget toolkit](https://www.gtk.org) (Libadwaita)
-- [Qt | Tools for Each Stage of Software Development Lifecycle](https://www.qt.io)
+See [[GUI toolkits]].
 
 ## Package managers
 
