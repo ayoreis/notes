@@ -6,11 +6,34 @@
 # fdisk -l
 ```
 
+## Types
+
+```bash
+# fdisk /dev/sdb
+
+Command (m for help): t
+Partition type or alias (type L to list all): 11
+Command (m for help): w
+```
+
+- [Microsoft basic data partition - Wikipedia](https://en.wikipedia.org/wiki/Microsoft_basic_data_partition)
+- [command line - How do you know, using the CLI, the type of partition that corresponds to its id? - Ask Ubuntu](https://askubuntu.com/questions/330780/how-do-you-know-using-the-cli-the-type-of-partition-that-corresponds-to-its-id)
+- [Using the GPT Linux Filesystem Data Type Code](https://www.rodsbooks.com/linux-fs-code/)
+- [[Solved] linux ext4 partitions show up as "Microsoft basic data" type / Newbie Corner / Arch Linux Forums](https://bbs.archlinux.org/viewtopic.php?id=191163)
+- [[SOLVED] Exfat Partitions created in Linux not readable in Windows or Mac OS X](https://www.linuxquestions.org/questions/linux-software-2/exfat-partitions-created-in-linux-not-readable-in-windows-or-mac-os-x-4175575119/)
+- [Solutions for an ExFat drive not mounted on Mac : r/editors](https://www.reddit.com/r/editors/comments/oln12b/solutions_for_an_exfat_drive_not_mounted_on_mac/)
+- [filesystems - Mac OS cannot mount exFAT disk created on (Ubuntu) linux - Unix & Linux Stack Exchange](https://unix.stackexchange.com/questions/460155/mac-os-cannot-mount-exfat-disk-created-on-ubuntu-linux)
+- [Can't mount exFAT external drive in macOS - Ask Different](https://apple.stackexchange.com/questions/293390/cant-mount-exfat-external-drive-in-macos)
+
+## Recovery
+
+- [File recovery - ArchWiki](https://wiki.archlinux.org/title/file_recovery)
+
 ## Partition table schemes
 
 - Master Boot Record (MBR, sometimes called DOS)
 
-## GUID Partition Table (GPT)
+### GUID Partition Table (GPT)
 
 ```bash
 # fdisk /dev/sdb
