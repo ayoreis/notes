@@ -2,6 +2,8 @@
 
 You can open source things, even if they aren't software.
 
+- Open source != open participation
+- [How ‘open’ should your open source be? (github.com)](https://github.com/readme/featured/how-open-is-open-source)
 - [Open Source Initiative – The steward of the Open Source Definition, setting the foundation for the Open Source Software ecosystem.](https://opensource.org)
 - [Open Source Guides | Learn how to launch and grow your project.](https://opensource.guide)
 - [Open Source Stack Exchange](https://opensource.stackexchange.com)
