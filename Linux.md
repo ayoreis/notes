@@ -53,8 +53,11 @@ Learn about GNU
 
 ## Windows manager
 
-- [dwm - dynamic window manager | suckless.org software that sucks less](https://dwm.suckless.org)
+- [dwm - dynamic window manager](https://dwm.suckless.org)
 - [i3 - improved tiling wm](https://i3wm.org)
+- [Sway](https://swaywm.org)
+- [Hyprland](https://hyprland.org)
+- [awesome window manager](https://awesomewm.org)
 
 ## Desktop environment
 
@@ -63,7 +66,10 @@ Learn about GNU
 - Gnome
 - KDE Plasma
 - Cinnamon
-- Mate, XFCE
+- Mate
+- [Xfce](https://www.xfce.org)
+- [COSMIC](https://wiki.archlinux.org/title/COSMIC)
+- [LXQt](https://lxqt-project.org)
 
 ## GUI toolkits and themes
 
@@ -71,7 +77,11 @@ See [[GUI toolkits]].
 
 ## Package managers
 
-[Snaps vs Flatpaks vs Appimages vs Packages: benchmarks, missing features & differences [Video]](https://www.youtube.com/watch?v=ikBPnYwnUMU)
+- [Snaps vs Flatpaks vs Appimages vs Packages: benchmarks, missing features & differences [video]](https://www.youtube.com/watch?v=ikBPnYwnUMU)
+- [Make a Linux App](https://makealinux.app)
+- [Repology](https://repology.org)
+
+---
 
 - Debs (Debian, Ubuntu)
 - RPMs (red Hat, SUSE)
@@ -90,3 +100,4 @@ See [[GUI toolkits]].
 
 - [ ] Electron custom window frames don't have shadows/borders
 - [ ] Bluetooth headphones
+- [ ] Airport Express
