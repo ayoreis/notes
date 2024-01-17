@@ -9,3 +9,10 @@
 
 export GPG_TTY=$(tty)
 ```
+
+## Hosting
+
+- https://about.gitea.com
+- https://github.com
+- https://sourcehut.org
+- https://gitlab.com
