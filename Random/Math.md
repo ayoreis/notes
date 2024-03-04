@@ -1,0 +1,1 @@
+![[math-syntax-highlighting.png]]

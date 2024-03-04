@@ -1,0 +1,42 @@
+# Software ideas
+
+- Reverse engineer
+  - iCloud/iCloud Photos
+  - ChatGPT
+- Web scraping
+- Website screenshots with SVG `<foreignObject>`
+- VS code theme
+- Try Deno KV
+  - Queues
+- r/Place
+- [[Generative art]]
+- Minecraft
+  - Skin editor
+  - Mod
+- Contribute to projects
+  - Deno
+- [[Operating system]]
+- Programming language
+  - Formatter
+  - Linter
+  - Tester
+- Deno CLI polyfills for Deploy
+- Parsers
+  - HTML
+  - Markdown
+  - JavaScript
+- JavaScript engine (compiled, UTF-8, async, typed)
+  - Runtime
+- Distributed VPN
+- Ally (accessibility (a11y tool))
+- Rhyming words relational database
+- Game
+- JavaScript stack trace parser
+- Scheme visualiser
+- Cycles (Komuhn)
+- VisWiz (Visualization Wizard)
+- LETS!STREAM
+- Browser server
+- Tech/web/open source news
+- Generalise Building a Blue future thing into a module
+- Generative Agents
